@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UberClone</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyAS3krkQHp53NUbQHleBCji6XoXNCl_6lk</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_trip_detail">Map</string>
+
+</resources>
